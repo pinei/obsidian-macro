@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-quick-macro",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Record a sequence of keystrokes and run the sequence as many times as you want.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
